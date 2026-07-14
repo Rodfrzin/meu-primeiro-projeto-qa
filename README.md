@@ -32,14 +32,3 @@ Cenário 3: Validação de campo obrigatório (E-mail vazio)
 * **E** preencho o campo de senha com qualquer valor
 * **E** clico no botão "Entrar"
 * **Então** o sistema deve exibir um alerta visual informando: *"O campo e-mail é obrigatório"*.
-
-🛠️ Competências Desenvolvidas neste Passo
-* Noções básicas de Engenharia de Software e Qualidade.
-* Escrita de cenários de teste focados na experiência do usuário.
-* Introdução à metodologia ágil com BDD.
-* Utilização básica do GitHub para controle de portfólio.
-
-🎯 Próximos Passos nos Meus Estudos
-- [ ] Concluir o módulo de Lógica de Programação na DIO.
-- [ ] Adicionar cenários de teste para uma **Tela de Cadastro** e **Carrinho de Compras**.
-- [ ] Aprender os conceitos básicos de testes de API.
